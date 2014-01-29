@@ -1,6 +1,6 @@
 ![domokun](http://dentarg.net/tmp/github-image-proxy-test/domokun.jpg)
 
-![test](http://dentarg.net/tmp/github-image-proxy-test/domokun.jpg)
+![test](http://dentarg.net/tmp/github-image-proxy-test/domokun.jpg?foo)
 
 http://dentarg.net/tmp/github-image-proxy-test/domokun.jpg
 
