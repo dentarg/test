@@ -3,6 +3,8 @@ layout: post
 title: Blogging Like a Boss
 ---
 
+https://www.google.com
+
 # foo
 
 test
