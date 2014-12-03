@@ -19,3 +19,24 @@ test
 
 - [ ] asdf
 - [X] qwert
+
+
+# code
+
+```ruby
+class Foo
+  def bar
+    puts "Hello"
+  end
+end
+```
+
+rdoc style
+
+  class Foo
+    def bar
+      puts "Hello"
+    end
+  end
+
+blah
